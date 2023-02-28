@@ -1,0 +1,87 @@
+
+h1{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+.row{
+    /* background-color: rgb(204, 145, 218); */
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); 
+    border: radius 30px; 
+    box-shadow: 12px 12px 27px;
+    width: auto;
+    height: 37rem;
+
+}
+img{
+    width: 120%;
+    height: 37.5rem;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 482px;
+    border-top-left-radius: 395px;
+    /* width: 120%;
+    height: 37.5rem;
+    border-top-right-radius:230px ;
+    border-bottom-right-radius: 429px; */
+    /* width: 116%;
+    height: 20.5rem;
+    border-top-right-radius: 175px;
+    border-bottom-right-radius: 311px;
+    border-radius: 277px 8px; */
+}
+.login h1{
+    font-size: 4rem;
+    font-weight: 300;
+
+}
+.inp{
+    height: 41px;
+    width: 205px;
+    border: none ;
+    border-radius: 50px;
+    box-shadow: -26px -19px 30px -19px rgb(204, 36, 36);
+}
+.btn1{
+    margin-left: 65px;
+    color: azure;
+    border: transparent;
+    width: 70px;
+    border-radius: 20px;
+    padding-left: 25px;
+    padding-right: 77px;
+    background: linear-gradient(90deg, rgba(178,175,232,1) 33%, rgba(9,9,121,1) 55%, rgba(0,212,255,1) 78%);;
+}
+.btn1:hover{
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%); 
+}
+.fa-facebook{
+    padding: 10px;
+    font-size: 30px;
+    color: antiquewhite;
+}
+.fa-linkedin{
+    padding: 10px;
+    font-size: 30px;
+    color: antiquewhite;
+}
+.fa-instagram{
+    padding: 10px;
+    font-size: 30px;
+    color: antiquewhite;
+}
+.fa-facebook:hover{
+   color: black;
+}
+.fa-instagram:hover{
+    color: black;
+ }
+ .fa-linkedin:hover{
+    color: black;
+ }
+ .fa-brands{
+    padding-left: 25px;
+    padding-right: 0px;
+ }
+p{
+    padding-left: 65px;
+} 
